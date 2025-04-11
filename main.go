@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Flagsmith/flagsmith-go-client/v2"
+	"github.com/Flagsmith/flagsmith-go-client/v4"
 	"github.com/joho/godotenv"
 )
 
