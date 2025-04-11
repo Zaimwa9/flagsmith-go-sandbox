@@ -11,4 +11,6 @@ This is a sandbox for the Flagsmith Go client. It is not meant to be used as a l
 
 ```bash
 go run main.go
+
+curl http://localhost:8082
 ```
