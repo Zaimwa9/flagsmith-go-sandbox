@@ -17,4 +17,4 @@ require (
 	golang.org/x/net v0.39.0 // indirect
 )
 
-// replace github.com/Flagsmith/flagsmith-go-client/v2 => ../flagsmith-go-client
+// replace github.com/Flagsmith/flagsmith-go-client/v4 => ../flagsmith-go-client
